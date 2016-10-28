@@ -1,6 +1,3 @@
-# Creating-Customer-Segments
-Use Gaussian mixture model to find customer segments. PCA and ICA are applied to preprocess and understand customer purchasing behavior better. It serves as Project 3 in Machine Learning nanodegree on Udacity.
-
 # Creating Customer Segments
 
 Unsupervised Learning Project
